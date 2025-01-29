@@ -1,4 +1,12 @@
-/.idea/
-/BasicCrawler/__pycache__
-__pycache__
-.idea
+chrome/
+chrome/*
+__pycache__/
+*/__pycache__/
+**/__pycache__/
+*.pyc
+*.csv
+*.exe
+.idea/
+.idea/*
+venv/
+env/
